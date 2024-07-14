@@ -1,0 +1,41 @@
+2024-Jul-13-19:-19:-48,ETL Start
+2024-Jul-13-19:-19:-48,Extract phase Started
+2024-Jul-13-19:-34:-23,ETL Start
+2024-Jul-13-19:-34:-23,Extract phase Started
+2024-Jul-13-19:-37:-47,ETL Start
+2024-Jul-13-19:-37:-47,Extract phase Started
+2024-Jul-13-19:-43:-32,ETL Start
+2024-Jul-13-19:-43:-32,Extract phase Started
+2024-Jul-13-19:-44:-25,ETL Start
+2024-Jul-13-19:-44:-25,Extract phase Started
+2024-Jul-13-19:-48:-06,ETL Start
+2024-Jul-13-19:-48:-06,Extract phase Started
+2024-Jul-13-19:-51:-32,ETL Start
+2024-Jul-13-19:-51:-32,Extract phase Started
+2024-Jul-13-19:-53:-29,ETL Start
+2024-Jul-13-19:-53:-29,Extract phase Started
+2024-Jul-13-19:-56:-32,ETL Start
+2024-Jul-13-19:-56:-32,Extract phase Started
+2024-Jul-13-19:-59:-32,ETL Start
+2024-Jul-13-19:-59:-32,Extract phase Started
+2024-Jul-13-20:-18:-22,ETL Start
+2024-Jul-13-20:-18:-22,Extract phase Started
+2024-Jul-13-20:-18:-22,Extract phase Enden
+2024-Jul-13-20:-18:-22,Transform Started
+2024-Jul-13-20:-18:-22,Load phase Started
+2024-Jul-13-20:-18:-22,Load phase Ended
+2024-Jul-13-20:-18:-22,ETL End
+2024-Jul-13-20:-19:-24,ETL Start
+2024-Jul-13-20:-19:-24,Extract phase Started
+2024-Jul-13-20:-19:-24,Extract phase Enden
+2024-Jul-13-20:-19:-24,Transform Started
+2024-Jul-13-20:-19:-24,Load phase Started
+2024-Jul-13-20:-19:-24,Load phase Ended
+2024-Jul-13-20:-19:-24,ETL End
+2024-Jul-13-20:-21:-29,ETL Start
+2024-Jul-13-20:-21:-29,Extract phase Started
+2024-Jul-13-20:-21:-29,Extract phase Enden
+2024-Jul-13-20:-21:-29,Transform Started
+2024-Jul-13-20:-21:-29,Load phase Started
+2024-Jul-13-20:-21:-29,Load phase Ended
+2024-Jul-13-20:-21:-29,ETL End
